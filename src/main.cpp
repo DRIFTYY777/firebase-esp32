@@ -9,10 +9,10 @@
 
 #include "DHT.h"
 
-#define API_KEY "AIzaSyBfppxm4qqUo60xeV2k7Ztr9z2qHc0lT6I"
+#define API_KEY ""
 #define FIREBASE_PROJECT_ID "that-esp"
-#define USER_EMAIL "gbjhasd344@gmail.com"
-#define USER_PASSWORD "mmmmmmmmmm777"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 #define DOOR_SENSOR_PIN 19 // ESP32 pin GPIO19 connected to door sensor's pin
 
 FirebaseData fbdo;
